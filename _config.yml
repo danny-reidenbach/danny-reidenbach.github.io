@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Danny Reidenbach"
 title_separator          : "-"
 name                     : &name "Danny Reidenbach"
-description              : &description "Machine Learning Researcher"
+description              : &description "Home Page"
 url                      : https://danny-reidenbach.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danny-reidenbach/danny-reidenbach.github.io"
@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Testing"
   location         : "San Jose, California"
-  employer         :
+  employer         : "Google | NVIDIA Research"
   pubmed           : 
   googlescholar    : 
   email            : "dreidenbach@berkeley.edu"
